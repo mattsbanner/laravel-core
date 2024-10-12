@@ -1,0 +1,15 @@
+{
+    "name": "mattsbanner/laravel-core",
+    "type": "library",
+    "version": "1.0.0",
+    "authors": [
+        {
+            "name": "Matt Banner",
+            "email": "git@matt.banner.sh"
+        }
+    ],
+    "require-dev": {
+        "larastan/larastan": "^2.9",
+        "laravel/pint": "^1.18"
+    }
+}
