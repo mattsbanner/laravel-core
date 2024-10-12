@@ -8,7 +8,7 @@
             "email": "git@matt.banner.sh"
         }
     ],
-    "require-dev": {
+    "require": {
         "larastan/larastan": "^2.9",
         "laravel/pint": "^1.18"
     }
