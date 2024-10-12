@@ -4,5 +4,5 @@
 
 ### Added
 - `larastan/larastan` package
-- `phpstan/phpstan` package
+- `laravel/pint` package
 - Basic Laravel Pint config
